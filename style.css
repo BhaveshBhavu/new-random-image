@@ -75,5 +75,6 @@ button{
     position: absolute;
     bottom: 5px;
     border: 1px solid white;
+    color: yellowgreen;
   }
  }
