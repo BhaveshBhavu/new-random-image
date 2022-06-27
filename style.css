@@ -73,6 +73,7 @@ button{
     padding: 7px;
     font-size: 10px;
     position: absolute;
-    bottom: 5px;border: 1px solid;
+    bottom: 5px;
+    border: 1px solid white;
   }
  }
