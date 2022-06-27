@@ -55,6 +55,7 @@ button{
     font-size: 20px;
     position: relative;
     top: 80px;
+  
   }
  }
 
@@ -70,11 +71,11 @@ button{
  
  @media (max-width: 200px) {
   button{
-    padding: 7px;
-    font-size: 10px;
+    padding: 5px;
+    font-size: 7px;
     position: relative;
     bottom: 5px;
     border: 1px solid white;
-    color: yellowgreen;
+    
   }
  }
